@@ -1,5 +1,5 @@
 # Beş Vakit Uygulaması
-Android java ile namaz nakit apilerini kullanarak oluşturulmuş namaz vakitlerini gösteren uygulama
+Android java ile namaz vakit apilerini kullanarak oluşturulmuş namaz vakitlerini gösteren uygulama
 
 <h3>build.gradle Depencines ve packagingOptions bölümü:</h3>
 
